@@ -10,6 +10,10 @@ Then to start, run `npm start`
 
 Files will be watched and built continuously until you quit the command
 
+## Watch
+
+Follow along via [screencast recording](https://youtu.be/TMuE7FP4-TQ)
+
 ## Concepts
 
 - Compiling with Webpack & Babel
@@ -32,3 +36,4 @@ To continue learning the React ecosystem, look into the following:
 
 - [React Router](https://css-tricks.com/learning-react-router/)
 - [Redux](http://redux.js.org/docs/advanced/UsageWithReactRouter.html)
+- [Alt.js](http://alt.js.org/)
